@@ -6,9 +6,7 @@
 📞 Phone: (+1)-416-858-5576
 🔗 LinkedIn: linkedin.com/in/btuteja0810
 
-## Technical Skills
-Languages: Java, Python, C, C++, SQL
-Tools & Technologies: Pandas, Matplotlib, NumPy, Power BI, Git, Azure, MS Excel, and more
+## Technical Skills: ##
 
 ## Education
 ### Conestoga College
