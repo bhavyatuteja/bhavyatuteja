@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Tuteja</h1>
 <h3 align="center">I'm a data professional from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://bhavyatuteja.journoportfolio.com/](https://bhavyatuteja.journoportfolio.com/)
+- 👨‍💻 All of my projects are also available at [https://bhavyatuteja.journoportfolio.com/](https://bhavyatuteja.journoportfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
