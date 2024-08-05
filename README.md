@@ -2,11 +2,7 @@
 
 #### Welcome to my portfolio! Dive into my projects, skills, and experiences that showcase my expertise in data analysis and business intelligence.
 
-📧 Email: bhavyatuteja810@gmail.com
-📞 Phone: (+1)-416-858-5576
-🔗 LinkedIn: linkedin.com/in/btuteja0810
-
-## Technical Skills: ##
+#### Technical Skills: Python, SQL,MS Excel, PowerBI, Azure, Apache Pyspark
 
 ## Education
 ### Conestoga College
@@ -35,5 +31,7 @@ Developed a comprehensive Power BI dashboard providing deep insights into market
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 - Power BI Data Analytics for All Levels from Codebasics
 - Maven Analytics: Advanced MySQL Data Analysis
+
+#### E-Mail: bhavyatuteja810@gmail.com
 
 Thank you for visiting my portfolio! Feel free to reach out if you have any questions or opportunities for collaboration.
