@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Bhavya Tuteja</h1>
-<h3 align="center">I'm a data professional from Canada</h3>
+Data & Business Data Analyst
 
-- 👨‍💻 All of my projects are also available at [https://bhavyatuteja.journoportfolio.com/](https://bhavyatuteja.journoportfolio.com/)
+Welcome to my portfolio! Dive into my projects, skills, and experiences that showcase my expertise in data analysis and business intelligence.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/btuteja0810/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/btuteja0810/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bhavyatuteja810/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhavyatuteja810/" height="30" width="40" /></a>
-</p>
+📧 Email: bhavyatuteja810@gmail.com
+📞 Phone: (+1)-416-858-5576
+🔗 LinkedIn: linkedin.com/in/btuteja0810
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Technical Skills**
+Languages: Java, Python, C, C++, SQL
+Tools & Technologies: Pandas, Matplotlib, NumPy, Power BI, Git, Azure, MS Excel, and more
+
+**Education
+Conestoga College
+Graduate Certificate, Information Technology Business Analysis (2022 - 2023)
+Chitkara University
+Bachelor of Engineering, Computer Science (2016 - 2020)
+
+**Work Experience**
+Questimate
+Data Analyst (Sept 2021 - Aug 2022)
+Implemented advanced data cleansing and optimization using Python and Power Query.
+Developed comprehensive financial reports in Power BI, enhancing decision-making.
+
+Kloudgin
+Business Data Analyst (Co-Op) (Aug 2019 - Aug 2020)
+Streamlined data integration using SQL and Python, improving IT performance metrics by 30%.
+
+**Projects**
+Invest Insight: Analyzing Past Investment Performance
+A project employing Python, matplotlib, and APIs to analyze historical investment data, creating actionable insights through personalized reports.
+
+Power BI Sales Insights
+Developed a comprehensive Power BI dashboard providing deep insights into market trends and sales performance.
+
+**Certifications**
+Microsoft Certified: Azure Data Fundamentals (DP-900)
+Power BI Data Analytics for All Levels from Codebasics
+Maven Analytics: Advanced MySQL Data Analysis
+
+Thank you for visiting my portfolio! Feel free to reach out if you have any questions or opportunities for collaboration.
