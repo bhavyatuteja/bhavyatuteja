@@ -15,7 +15,7 @@
 - Streamlined data integration using SQL and Python, improving IT performance metrics by 30%.
 <br>
 ## Projects
-[Azure Data Pipeline](assets/Screenshot 2024-08-05 120816~2.jpg)
+! [Azure Data Pipeline](assets/Screenshot 2024-08-05 120816~2.jpg)
 ### Olympic Data Analytics on Azure
 - Developed an end-to-end data pipeline using Azure Data Factory, Databricks, and Synapse Analytics to extract, transform, and analyze Olympic data from Kaggle, enabling insights through interactive visualizations.
 
